@@ -1,0 +1,11 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.1)
+
+newmtl Sharp_Bake
+Kd 1 1 1
+Ke 0 0 0
+illum 1
+map_Kd 20k_ObjectSpace_Color_0.png
+bump 20k_ObjectSpace_Normal_1.png
+map_bump 20k_ObjectSpace_Normal_1.png
+
