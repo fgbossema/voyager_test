@@ -2,5 +2,5 @@
 https://fgbossema.github.io/voyager_test/
 
 - [explorer](voyager-explorer.html)
-- [story](voyager-story.html)
+- [story](voyager-story-dev.html)
 - 
